@@ -1,0 +1,15 @@
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\bin\Release\netstandard2.0\Application_IOT.deps.json
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\bin\Release\netstandard2.0\Application_IOT.dll
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\bin\Release\netstandard2.0\ref\Application_IOT.dll
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\bin\Release\netstandard2.0\Application_IOT.pdb
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\Application_IOT.csproj.AssemblyReference.cache
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\Application_IOT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\Application_IOT.AssemblyInfoInputs.cache
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\Application_IOT.AssemblyInfo.cs
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\Application_IOT.csproj.CoreCompileInputs.cache
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\Application_IOT.dll
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\ref\Application_IOT.dll
+C:\Users\ma-ma\source\repos\Application_IOT\Application_IOT\Application_IOT\obj\Release\netstandard2.0\Application_IOT.pdb

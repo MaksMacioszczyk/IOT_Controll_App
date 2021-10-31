@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Application_IOT.MainPage">
+
+    <StackLayout>
+        <Label Text="Sterowanie" TextColor="Black" FontSize="24" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
+
+        <StackLayout Orientation="Horizontal" Margin="5">
+            <StackLayout Spacing="25">
+                <Label Text="Brama" TextColor="Black" FontSize="24"  HorizontalTextAlignment="Start"/>
+                <Label Text="Światło 1" TextColor="Black" FontSize="24"  HorizontalTextAlignment="Start"/>
+                <Label Text="Światło 2" TextColor="Black" FontSize="24"  HorizontalTextAlignment="Start"/>
+                <Label Text="Światło 3" TextColor="Black" FontSize="24"  HorizontalTextAlignment="Start"/>
+            </StackLayout>
+            <StackLayout >
+                <Button Text="Przełącz!" BackgroundColor="Red" Clicked="BramaClicked" Pressed="ButtonPressed" Released="ButtonReleased"/>
+                <Button Text="Przełącz!" BackgroundColor="Red" Clicked="Light1licked" Pressed="ButtonPressed" Released="ButtonReleased"/>
+                <Button Text="Przełącz!" BackgroundColor="Red" Clicked="Light2Clicked" Pressed="ButtonPressed" Released="ButtonReleased"/>
+                <Button Text="Przełącz!" BackgroundColor="Red" Clicked="Light3Clicked" Pressed="ButtonPressed" Released="ButtonReleased"/>
+            </StackLayout>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>
